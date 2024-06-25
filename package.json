@@ -1,0 +1,25 @@
+{
+  "name": "uts_expertsistem",
+  "version": "4.1.0",
+  "description": "nodejs forward chaining with express and mysql",
+  "main": "./index/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index/main.js",
+    "startbase": "node ./index/index.js"
+  },
+  "keywords": [
+    "forward chaining",
+    "expert system",
+    "mysql",
+    "express",
+    "uts"
+  ],
+  "author": "310122023672",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
