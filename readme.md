@@ -19,7 +19,8 @@ pastikan anda sudah menginstall node.js dan npm di sistem anda
 1. **cloning repository**
 ```bash
 gitclone https://github.com/RIKASHIKI/uts-exoertsystem
-
+```
+```bash
 cd uts-expertsytem
 ```
 
