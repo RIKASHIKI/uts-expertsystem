@@ -16,15 +16,22 @@ aplikasi pemilihan musik berdasarkan genre, skill dan uang yang dimiliki penggun
 <h2 align=center>INSTALASI</h2>
 pastikan anda sudah menginstall node.js dan npm di sistem anda
 
-1. **install dependensi**
+1. **cloning repository**
+```bash
+gitclone https://github.com/RIKASHIKI/uts-exoertsystem
+
+cd uts-expertsytem
+```
+
+2. **install dependensi**
 ```bash
 npm i
 ```
-2. **jalankan server**
+3. **jalankan server**
 ```bash
 node ./index/main.js
 ```
-3. **akses aplikasi di browser**
+4. **akses aplikasi di browser**
 ```
 buka http://localhost:3000
 ```
